@@ -1,20 +1,13 @@
-![](https://hit.yhype.me/github/profile?user_id=16271098)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zweroxotnik&label=Profile%20views&color=0e75b6&style=flat" alt="zweroxotnik" /> </p>
 
-GitLab: https://gitlab.com/ZwerOxotnik/
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zweroxotnik" alt="zweroxotnik" /></a> </p>
 
-![ZwerOxotnik's github stats](https://github-readme-stats.vercel.app/api?username=zweroxotnik&show_icons=true&theme=monokai&hide_border=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zweroxotnik&langs_count=8)
+- 👨‍💻 All of my projects are available at GitHub, GitLab, CodePen
 
-<!--
-**ZwerOxotnik/ZwerOxotnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **zweroxotnik@gmail.com**
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zweroxotnik&show_icons=true&locale=en&layout=compact" alt="zweroxotnik" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zweroxotnik&show_icons=true&locale=en" alt="zweroxotnik" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zweroxotnik&" alt="zweroxotnik" /></p>
