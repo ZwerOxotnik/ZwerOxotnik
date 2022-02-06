@@ -7,5 +7,5 @@
 <details>
   <summary>My Profile Stats</summary>
   <br>
-    <p><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+    <p><img src="/github-metrics.svg" alt="Metrics" width="450"></p>
 </details>
