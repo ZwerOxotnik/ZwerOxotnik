@@ -7,9 +7,5 @@
 <details>
   <summary>My Profile Stats</summary>
   <br>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zweroxotnik&show_icons=true&locale=en&layout=compact&icon_color=805AD5&text_color=718096&bg_color=ffffff00" alt="zweroxotnik" /></p>
-  <br>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zweroxotnik&show_icons=true&locale=en&icon_color=805AD5&text_color=718096&bg_color=ffffff00" alt="zweroxotnik" /></p>
-  <br>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zweroxotnik&" alt="zweroxotnik" /></p>
+    <p><img align="left" src="https://metrics.lecoq.io/ZwerOxotnik?template=classic&isocalendar=1&languages=1&gists=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=UTC" /></p>
 </details>
