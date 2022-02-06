@@ -7,5 +7,5 @@
 <details>
   <summary>My Profile Stats</summary>
   <br>
-    <p><img align="left" src="https://metrics.lecoq.io/ZwerOxotnik?template=classic&isocalendar=1&languages=1&gists=1&isocalendar.duration=full-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=UTC" /></p>
+    <p><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
 </details>
