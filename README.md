@@ -4,6 +4,8 @@
 
 - 📫 How to reach me **zweroxotnik@gmail.com**, **Discord:ZwerOxotnik#7117**
 
+My Discord server:https://discordapp.com/invite/YyJVUCa
+
 <details>
   <summary>My Profile Stats</summary>
   <br>
