@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ZwerOxotnik?tab=repositories), [GitLab](https://gitlab.com/ZwerOxotnik), CodePen
 
-- 📫 How to reach me **zweroxotnik@gmail.com**, **Discord:ZwerOxotnik#7117**
+- 📫 How to reach me **zweroxotnik@gmail.com**, **Discord:ZwerOxotnik**
 
 My Discord server:https://discordapp.com/invite/YyJVUCa
 
